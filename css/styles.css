@@ -7,7 +7,7 @@
 }
 
 .myheader {
-	background-image: url("../images/91tilaiyNjL._AC_SL1500_.jpg");
+	background-image: url(../images/logos.jpg);
 	height:400px;
 	background-size: cover;
 	
@@ -18,12 +18,12 @@
 	
 }
 .mybanner {
-     background-image:url("../images/91tilaiyNjL._AC_SL1500_.jpg");
+     background-image:url("../images/background.jpg");
 	height:200px;
 	background-size:cover;
 }
 body{
-background-image:url("../images/d5f07590-ce74-448e-b387-8d80ed0b8d18-Phoenix_Protest_10.jpg");
+background-image:url("../images/background.jpg");
 	height:400px;
 	background-size: cover;
 }
