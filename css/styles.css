@@ -7,7 +7,7 @@
 }
 
 .myheader {
-	background-image: url(../images/logos.jpg);
+	background-image: url("../images/Logo.jpg");
 	height:400px;
 	background-size: cover;
 	
